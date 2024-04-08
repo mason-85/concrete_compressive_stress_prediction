@@ -12,4 +12,5 @@ Below is a description of the attributes included in the dataset (concrete.csv):
 - Coarse Aggregate: measured in kilograms per cubic meter of mixture
 - Fine Aggregate: measured in kilograms per cubic meter of mixture
 - Age: measured in days (1~365)
-- Strength: concrete compressive strength measured in MPa (Target)
+- Strength: concrete compressive strength measured in MPa (Target)</br></br>
+The detailed explanations are availeable in the "cocnrete_compressive_stress_prediction.ipynb" file.
